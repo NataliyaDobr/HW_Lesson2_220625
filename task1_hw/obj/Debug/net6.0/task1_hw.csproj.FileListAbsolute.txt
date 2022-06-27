@@ -1,0 +1,15 @@
+C:\GeekBrains\Lesson_2_250622_HW\task1_hw\bin\Debug\net6.0\task1_hw.exe
+C:\GeekBrains\Lesson_2_250622_HW\task1_hw\bin\Debug\net6.0\task1_hw.deps.json
+C:\GeekBrains\Lesson_2_250622_HW\task1_hw\bin\Debug\net6.0\task1_hw.runtimeconfig.json
+C:\GeekBrains\Lesson_2_250622_HW\task1_hw\bin\Debug\net6.0\task1_hw.dll
+C:\GeekBrains\Lesson_2_250622_HW\task1_hw\bin\Debug\net6.0\task1_hw.pdb
+C:\GeekBrains\Lesson_2_250622_HW\task1_hw\obj\Debug\net6.0\task1_hw.csproj.AssemblyReference.cache
+C:\GeekBrains\Lesson_2_250622_HW\task1_hw\obj\Debug\net6.0\task1_hw.GeneratedMSBuildEditorConfig.editorconfig
+C:\GeekBrains\Lesson_2_250622_HW\task1_hw\obj\Debug\net6.0\task1_hw.AssemblyInfoInputs.cache
+C:\GeekBrains\Lesson_2_250622_HW\task1_hw\obj\Debug\net6.0\task1_hw.AssemblyInfo.cs
+C:\GeekBrains\Lesson_2_250622_HW\task1_hw\obj\Debug\net6.0\task1_hw.csproj.CoreCompileInputs.cache
+C:\GeekBrains\Lesson_2_250622_HW\task1_hw\obj\Debug\net6.0\task1_hw.dll
+C:\GeekBrains\Lesson_2_250622_HW\task1_hw\obj\Debug\net6.0\refint\task1_hw.dll
+C:\GeekBrains\Lesson_2_250622_HW\task1_hw\obj\Debug\net6.0\task1_hw.pdb
+C:\GeekBrains\Lesson_2_250622_HW\task1_hw\obj\Debug\net6.0\task1_hw.genruntimeconfig.cache
+C:\GeekBrains\Lesson_2_250622_HW\task1_hw\obj\Debug\net6.0\ref\task1_hw.dll
